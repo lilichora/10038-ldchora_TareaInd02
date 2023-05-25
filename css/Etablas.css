@@ -1,0 +1,7 @@
+.marcado {
+  transition: background-color .5s;
+}
+
+.marcado:hover{
+	background-color: royalblue;
+}
